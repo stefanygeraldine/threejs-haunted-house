@@ -1,10 +1,7 @@
 import {useCallback, useState, useEffect} from 'react'
 import * as THREE from 'three'
-import {MathUtils} from 'three'
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
-import {TextureLoader} from 'three/src/loaders/TextureLoader.js'
 import * as dat from 'dat.gui'
-import gsap from 'gsap'
 import './App.css'
 
 
