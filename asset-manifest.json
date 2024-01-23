@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/threejs-haunted-house/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/threejs-haunted-house/static/js/main.3a03647b.chunk.js",
+    "main.js.map": "/threejs-haunted-house/static/js/main.3a03647b.chunk.js.map",
+    "runtime-main.js": "/threejs-haunted-house/static/js/runtime-main.6e998c54.js",
+    "runtime-main.js.map": "/threejs-haunted-house/static/js/runtime-main.6e998c54.js.map",
+    "static/js/2.ba0ec5eb.chunk.js": "/threejs-haunted-house/static/js/2.ba0ec5eb.chunk.js",
+    "static/js/2.ba0ec5eb.chunk.js.map": "/threejs-haunted-house/static/js/2.ba0ec5eb.chunk.js.map",
+    "static/js/3.3a650b90.chunk.js": "/threejs-haunted-house/static/js/3.3a650b90.chunk.js",
+    "static/js/3.3a650b90.chunk.js.map": "/threejs-haunted-house/static/js/3.3a650b90.chunk.js.map",
+    "index.html": "/threejs-haunted-house/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/threejs-haunted-house/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ba0ec5eb.chunk.js.LICENSE.txt": "/threejs-haunted-house/static/js/2.ba0ec5eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e998c54.js",
+    "static/js/2.ba0ec5eb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3a03647b.chunk.js"
+  ]
+}
